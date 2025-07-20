@@ -1,7 +1,7 @@
 {
   "name": "nursery",
   "version": "0.1.0",
-  "homepage": "https://github.com/pavan-gandikota/Nursery",
+"homepage": "https://pavan-gandikota.github.io/Nursery",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
