@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pavan-gandikota/Nursery/static/css/main.e6c13ad2.css",
+    "main.js": "/pavan-gandikota/Nursery/static/js/main.3f4c4acf.js",
+    "index.html": "/pavan-gandikota/Nursery/index.html",
+    "main.e6c13ad2.css.map": "/pavan-gandikota/Nursery/static/css/main.e6c13ad2.css.map",
+    "main.3f4c4acf.js.map": "/pavan-gandikota/Nursery/static/js/main.3f4c4acf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f4c4acf.js"
+  ]
+}
